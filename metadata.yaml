@@ -1,0 +1,36 @@
+_repo: Llibre-D-hist-ries_20253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Casellas, Raimón
+    aliases:
+    - Dou, Raimundo Casellas y
+    - Casellas, Raymon
+    - Casellas, Raimon
+    - Dou, Raimon Casellas i
+    birthdate: 1855
+    deathdate: 1910
+    gutenberg_agent_id: '9188'
+    url: http://www.gutenberg.org/2009/agents/9188
+description: ''
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20253'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Catalan literature'
+tableOfContents: Als benvolents lectors -- Tresor tret d'una novel·la -- En Malsangro
+  -- Festa de rams -- Pulchrum aut aptum -- Honradesa literària -- La mà del misteri
+  -- En Pere Perdis -- El mirall de la Guillema -- Conflicte d'un numismata -- Rei
+  desconegut -- La vida i l'obra -- Caritat desordenada -- L'idil·li nou -- L'encongida
+  -- L'autor de l'obra -- Sepeli idíl·lic -- No es perd qui vol.
+title: Llibre D'històries
+url: http://www.gutenberg.org/ebooks/20253
